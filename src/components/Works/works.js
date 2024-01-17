@@ -61,8 +61,7 @@ const Works = () => {
           range of technologies and capabilities.
         </span>
         <span className="worksImg">
-          Created this Portfolio
-          <a
+        Currently working on developing a website under the name of Ardent Coders          <a
             style={{ color: "white" }}
             activeClass="active"
             target="_blank"
